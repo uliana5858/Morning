@@ -15,10 +15,13 @@
 
 *  *git merge branch_name* - commmand that allow to merge the current branch with the desired branch.
 
-** also branch can delet by using "git branch -d "..."- command**
+ 
+** also branch can be delete by using "git branch -d "..."- command**
 
 ## Conflicts
 
 * Conflicts arise when chages to merged branches claim common areas.
 
+*Merging can be of three types. Two of them without conflict. And one type with conflict.
 
+## Conflicts
