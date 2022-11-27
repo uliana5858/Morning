@@ -15,4 +15,4 @@
 
 ## Conflicts
 
-This was added to handle merge conflicts.
+* Conflicts arise when chages to merged branches claim common areas.
