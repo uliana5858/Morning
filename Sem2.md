@@ -11,4 +11,6 @@
 
 ## Branch merging
 
+*  *git merge branch_name* - commmand that allow to merge the current branch with the desired branch.
+
 ## Conflicts
