@@ -1,4 +1,5 @@
-# Git education. Branches
+# Git education. 
+# *Branches*
 
 ## Branch creating
 
@@ -13,5 +14,7 @@
 
 
 ## Branch merging
+
+* *git merge* - allow two branches merge.
 
 ## Conflicts
